@@ -111,7 +111,7 @@ export const EarModel: React.FC = () => {
             rel="noopener noreferrer"
             className="absolute bottom-4 right-4 bg-white bg-opacity-90 rounded-md p-2 text-xs text-gray-600 hover:text-blue-500 hover:underline cursor-pointer"
           >
-            Kelompok 21 Responsi Anatomi 2025
+            Kelompok 21 Responsi Anatomi 2024
           </a>
         </>
       )}
